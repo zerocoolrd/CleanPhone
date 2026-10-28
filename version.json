@@ -1,5 +1,5 @@
 {
-  "version": "3.8",
-  "download_url": "https://github.com/zerocoolrd/CleanPhone/releases/download/v3.8/CleanPhone.exe",
-  "changelog": "- Lanzamiento oficial de CleanPhone v3.8 con soporte multilingüe y mejoras de interfaz."
+  "version": "1.1.0",
+  "changelog": "Se añadió el Módulo Gamer por ADB y mejoras de estabilidad.",
+  "download_url": "https://github.com/zerocoolrd/CleanPhone/releases/download/v3.8/CleanPhone.exe"
 }
